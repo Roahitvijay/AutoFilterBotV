@@ -24,18 +24,20 @@ Bot Owner Only
 /total How Many Files Added In Database
 /logger  Get Logs
 /delete Delete File From Database
+/index To index the files
 
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ My Name : [StarAnime bot] (http://t.me/staranime1bot)
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ My Creator : [R0ahit] (http://t.me/R0ahit)
 
 ➥ Language : Python3
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ My Anime group search : [Animepiratesgroup] (https://t.me/animegroup99)
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ My Anime channel : [Animepirateschannel] (https://t.me/animepirateschannel)
+
+➥ My Updates : [Animechannel90] (https://t.me/Animechannel90)
 """
