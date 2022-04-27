@@ -29,15 +29,16 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ My Name : [StarAnime bot] (http://t.me/staranime1bot)
+➥ 🤖 My Name:[{bot_name}](t.me/{bot_username})
     
-➥ My Creator : [R0ahit] (http://t.me/R0ahit)
+➥ 🧑 My Creator : {dev_name}
 
 ➥ Language : Python3
 
-➥ My Anime group search : [Animepiratesgroup] (https://t.me/animegroup99)
+➥ 👥 My Anime group search : [Animepiratesgroup](https://t.me/animegroup99)
 
-➥ My Anime channel : [Animepirateschannel] (https://t.me/animepirateschannel)
+➥ 📺 My Anime channel : [Animepirateschannel](https://t.me/animepirateschannel)
 
-➥ My Updates : [Animechannel90] (https://t.me/Animechannel90)
-"""
+➥ 🏷️ My Updates : [Animechannel90](https://t.me/Animechannel90)
+   
+➥ 🗣️ My Support : [Any Doubt](t.me/R0ahit)"""
