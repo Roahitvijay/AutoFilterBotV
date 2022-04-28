@@ -29,9 +29,9 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ 🤖 My Name:[{bot_name}](t.me/{bot_username})
+➥ 🤖 My Name: [Star Anime](http://t.me/staranime1bot)
     
-➥ 🧑 My Creator : {dev_name}
+➥ 🧑 My Creator : [R0ahit](https://t.me/R0ahit)
 
 ➥ Language : Python3
 
